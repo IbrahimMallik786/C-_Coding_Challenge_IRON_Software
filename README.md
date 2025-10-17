@@ -20,11 +20,11 @@
    `BP`<br>
    `HELLO`
    
-##How to Run The  C# code
+<b>How to Run The  C# code <b>
 <i> Compile and run using any C# compiler or IDE (like VS Code, or `dotnet run`).
 <br>
-<b> Here Is my copy where i understanding the problem and solved step by step. <b>
+<b> Here Is my copy where i understanding the problem and solved step by step. <b> <br>
 <img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/960eacfe2199c331c256fc7f34e2b06fb9a84bad/IRON_1.jpg" height="350" width="300"/> <br>
-<img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/960eacfe2199c331c256fc7f34e2b06fb9a84bad/IRON_1.jpg" height="350" width="300"/> <br>
+<img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/5528c4b99854a25d7254ad909969a06db9383d96/IRON_2.jpg" height="350" width="300"/> <br>
 <img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/960eacfe2199c331c256fc7f34e2b06fb9a84bad/IRON_1.jpg" height="350" width="300"/> <br>
 <img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/960eacfe2199c331c256fc7f34e2b06fb9a84bad/IRON_1.jpg" height="350" width="300"/> <br>
