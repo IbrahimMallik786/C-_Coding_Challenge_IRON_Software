@@ -24,4 +24,7 @@
 <i> Compile and run using any C# compiler or IDE (like VS Code, or `dotnet run`).
 <br>
 <b> Here Is my copy where i understanding the problem and solved step by step. <b>
-<img src="" height="350" width="300"/>
+<img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/960eacfe2199c331c256fc7f34e2b06fb9a84bad/IRON_1.jpg" height="350" width="300"/> <br>
+<img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/960eacfe2199c331c256fc7f34e2b06fb9a84bad/IRON_1.jpg" height="350" width="300"/> <br>
+<img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/960eacfe2199c331c256fc7f34e2b06fb9a84bad/IRON_1.jpg" height="350" width="300"/> <br>
+<img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/960eacfe2199c331c256fc7f34e2b06fb9a84bad/IRON_1.jpg" height="350" width="300"/> <br>
