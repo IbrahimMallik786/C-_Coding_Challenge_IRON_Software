@@ -32,4 +32,4 @@
 <img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/8d996132be221dc74644a2e8e2799b4e31f7db93/IRON_3.jpg" height="400" width="330"/> <br>
 <img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/3353c8b40fe5949c0a0dd4332ca88d974e78b00f/IRON_4.jpg" height="400" width="330"/> <br>
 <i>• Output is here👇</i> <br> <br>
-<img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/ae74057cf2c1ff4bee558e7714e6dc8dddf99380/C%23_output.png" height="580" width="400"/> <br>
+<img src="https://github.com/IbrahimMallik786/C-_Coding_Challenge_IRON_Software/blob/ae74057cf2c1ff4bee558e7714e6dc8dddf99380/C%23_output.png" height="780" width="400"/> <br>
